@@ -1,1 +1,0 @@
-RewritePath=/anything/(?<remaining>.*), /anything/${remaining}
