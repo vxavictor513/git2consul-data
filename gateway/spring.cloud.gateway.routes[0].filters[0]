@@ -1,0 +1,1 @@
+RewritePath=/(?<segment>.*), /downtime
